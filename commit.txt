@@ -12,6 +12,11 @@
 5- git remote add origin https://github.com/geovanaS2/loginCF.git
 6- git push -u origin master
 
+-Clonar- 
+1- cd caminho/da pasta q vc vai salvar
+2- url do projeto
+
+- $ git log estorico de commit
 - git status mostra oq vc acabou de fazer "histórico"*
 
 - PWD mostra o caminho que vc esta  
