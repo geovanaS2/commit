@@ -1,0 +1,22 @@
+-Atualizar-
+1- cd caminho/
+2- git add .
+3- git commit -m " "
+4- git push 
+
+-Adicionar-
+1- cd caminho/
+2- git init
+3- git add .
+4- git commit -m " "
+5- git remote add origin https://github.com/geovanaS2/loginCF.git
+6- git push -u origin master
+
+- git status mostra oq vc acabou de fazer "histórico"*
+
+- PWD mostra o caminho que vc esta  
+
+- git remote rm origin - remove a referência do repositório remoto chamado origin do seu repositório local 
+que seria o git remote add origin https que o GitHub da
+
+-.git/index.lock quando interrompe uma operação tem que apagar ele
