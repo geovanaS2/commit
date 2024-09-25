@@ -16,6 +16,9 @@
 1- cd caminho/da pasta q vc vai salvar
 2- url do projeto
 
+git push	Envia alterações locais para o remoto	Local → Remoto
+git pull	Obtém alterações do remoto para o local	Remoto → Local
+
 - $ git log estorico de commit
 - git status mostra oq vc acabou de fazer "histórico"*
 
